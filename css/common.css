@@ -27,7 +27,6 @@
 .floating-btn1 {
   background: transparent;
   border: none;
-  filter: drop-shadow(2px 2px 5px rgb(204, 204, 204));
   cursor: pointer;
   transition: background-color 0.3s ease;
   animation: 1000ms linear 100ms infinite alternate scrollUpDown1;
